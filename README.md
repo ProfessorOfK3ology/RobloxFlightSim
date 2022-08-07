@@ -1,5 +1,5 @@
 # RobloxFlightSim
-This is an open-source version of a very basic "flight simulator" I made using Roblox.
+This is an open-source version of a very basic "flight simulator" I made using Roblox. The model included contains the scripts already, but the code is also available under two .lua files for easier editing outside of Roblox Studio.
 
 The setup for this system is simple. Just place `planeCloneScript` into ServerScriptService, `cameraScript2` into StarterPlayerScripts, and the plane model itself into ReplicatedStorage.
 
